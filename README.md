@@ -1,4 +1,4 @@
-## Changes from https://github.com/carstenschroeder/hassio-remote-backup:
+Changes from https://github.com/carstenschroeder/hassio-remote-backup:
  * Updated to hassio-cli 3.1.0
 
 # Remote Backup
